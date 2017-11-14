@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in the city of JingJiang, in the state of JiangSu, in the Peoples 
+I live in the city of TaoHuaDao, in the state of Heaven, in the People's 
 Republic of China.
 
 ### Reading
@@ -10,7 +10,7 @@ Republic of China.
 Three of my favorite books are:
 
 - *三国演义* by 罗贯中
-- *西游记* by 吴承恩
+- *天龙八部* by 金庸
 - *红楼梦* by 施耐庵
 
 ### Food
