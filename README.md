@@ -9,7 +9,7 @@ Republic of China.
 
 Three of my favorite books are:
 
-- *三国演义* by 罗贯中
+- *四大名捕* by 温瑞安
 - *天龙八部* by 金庸
 - *红楼梦* by 施耐庵
 
